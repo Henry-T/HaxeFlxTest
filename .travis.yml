@@ -18,4 +18,5 @@ before_script:
  
 # Run the test!
 script:
+  - haxelib run openfl build EZPlatformer/FlixelNME.xml flash
   - haxelib run openfl build CaveGenerator/FlixelNME.xml flash
