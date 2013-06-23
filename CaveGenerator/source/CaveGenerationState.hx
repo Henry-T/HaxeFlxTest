@@ -14,7 +14,7 @@ import org.flixel.FlxTilemap;
  * @author Zaphod
  */
 
-class CaveGenerationState extends FlxState
+class CaveGenerationS tate extends FlxState
 {
 
     public var tileMap:FlxTilemap;
